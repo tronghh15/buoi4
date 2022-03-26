@@ -1,0 +1,52 @@
+* {
+	font-family: Arial;
+	font-size: 11pt;
+}
+table {
+	border-collapse: collapse;
+	border: 1px solid #f0f8ff;
+	background: #f0f8ff;
+	padding: 5px;
+}
+th {
+	font-size: 16pt;
+	background: #0000ff;
+	color: 	#ffffff;
+	padding: 5px;
+}
+td {
+	padding: 8px;
+}
+button {
+	background: #0000ff;
+	color: 	#ffffff;
+	padding: 5px;
+	border: 1px solid #f0f8ff;
+	border-style: dotted;
+}
+input {
+	border: 1px solid #add8e6;
+	border-style: dotted;
+	border-color: #1e90ff;
+	padding: 5px 0;
+	line-height: 20px;
+}
+
+select {
+	border: 1px solid #add8e6;
+	border-style: dotted;
+	border-color: #1e90ff;
+	padding: 5px 0;
+	margin: auto;
+	text-align: center;
+	line-height: 30px;
+}
+
+textarea {
+	border: 1px solid #add8e6;
+	border-style: dotted;
+	border-color: #1e90ff;
+	padding: 10px 0;
+	margin: auto;
+	line-height: 50px;
+}
